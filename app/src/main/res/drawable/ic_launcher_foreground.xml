@@ -4,20 +4,22 @@
     android:height="108dp"
     android:viewportWidth="108"
     android:viewportHeight="108">
-    <!-- Cat face simplified -->
     <path
         android:fillColor="#00E5A0"
         android:pathData="M54,20 C35,20 22,34 22,54 C22,72 35,86 54,86 C73,86 86,72 86,54 C86,34 73,20 54,20 Z" />
-    <!-- Ears -->
     <path
         android:fillColor="#00E5A0"
         android:pathData="M32,30 L22,14 L42,24 Z" />
     <path
         android:fillColor="#00E5A0"
         android:pathData="M76,30 L86,14 L66,24 Z" />
-    <!-- Eyes -->
-    <ellipse android:fillColor="#0D0D0D" android:centerX="42" android:centerY="50" android:radiusX="5" android:radiusY="6" />
-    <ellipse android:fillColor="#0D0D0D" android:centerX="66" android:centerY="50" android:radiusX="5" android:radiusY="6" />
-    <!-- Nose -->
-    <path android:fillColor="#0D0D0D" android:pathData="M51,60 L54,57 L57,60 L54,63 Z" />
+    <path
+        android:fillColor="#0D0D0D"
+        android:pathData="M37,50 a5,6 0 1,0 10,0 a5,6 0 1,0 -10,0 Z" />
+    <path
+        android:fillColor="#0D0D0D"
+        android:pathData="M61,50 a5,6 0 1,0 10,0 a5,6 0 1,0 -10,0 Z" />
+    <path
+        android:fillColor="#0D0D0D"
+        android:pathData="M51,60 L54,57 L57,60 L54,63 Z" />
 </vector>
