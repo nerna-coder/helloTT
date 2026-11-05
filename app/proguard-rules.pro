@@ -1,0 +1,3 @@
+-keep class com.hellott.app.** { *; }
+-keep class okhttp3.** { *; }
+-dontwarn okhttp3.**
